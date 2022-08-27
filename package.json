@@ -1,0 +1,9 @@
+{
+  "name": "is-subsequence",
+  "version": "0.0.0",
+  "description": "IsSubsequence",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
